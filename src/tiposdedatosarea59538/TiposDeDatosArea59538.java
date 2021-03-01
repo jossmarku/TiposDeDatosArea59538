@@ -26,3 +26,4 @@ public class TiposDeDatosArea59538 {
         System.out.println("areaRectángulo = " + lado1 * lado2);
     }
 }
+
